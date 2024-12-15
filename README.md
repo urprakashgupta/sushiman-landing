@@ -1,4 +1,4 @@
-<a href="https://sushiman-landing.vercel.app">
+<a href="https://sushiman-landing-five.vercel.app">
   <h1 align="center">Sushiman</h1>
 </a>
 
@@ -12,7 +12,7 @@
 
 <h2 align="center">
 
-[🚀&nbsp; Explore Demo](https://sushiman-landing.vercel.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📂&nbsp; Source Code](https://github.com/urprakashgupta/sushiman-landing)
+[🚀&nbsp; Explore Demo](https://sushiman-landing-five.vercel.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📂&nbsp; Source Code](https://github.com/urprakashgupta/sushiman-landing)
 
 </h2>
 <br>
@@ -29,7 +29,7 @@
 
 This repository showcases my developer journey through the creation of Sushiman, a sushi website. Feel free to delve into the codebase to uncover the magic of Sushiman's development.
 
-<a href="https://sushiman-landing.vercel.app">
+<a href="https://sushiman-landing-five.vercel.app">
    <p align=center>
     <img width = "550px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/image.png">
   <p>
